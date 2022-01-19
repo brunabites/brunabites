@@ -7,6 +7,6 @@ I’m a Product Designer living in [Brasília](https://en.wikipedia.org/wiki/Bra
 
 - 🔭 I’m currently working as Product Designer @Pipefy
 - 🌱 I’m studying design operations, design practice, team building
-- 📫 How to reach me: [@brunabites](https://twitter.com/brunabites) or alo [@]bruna.design
+- 📫 How to reach me: [@brunabites](https://twitter.com/brunabites) or alo [@] bruna.design
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to build wood stuff and I have a lot of hand tools!
