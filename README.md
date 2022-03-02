@@ -13,5 +13,5 @@ I’m a Product Designer living in [Brasília](https://en.wikipedia.org/wiki/Bra
 
 
 #### Design System is a passion!
-Because of that I've started a [project]((https://github.com/brunabites/brazilian-design-systems#readme)
+Because of that I've started a [project](https://github.com/brunabites/brazilian-design-systems#readme)
 ) for listing as many as Brazilian Design Systems as I can. [Take a look!](https://github.com/brunabites/brazilian-design-systems#readme)
